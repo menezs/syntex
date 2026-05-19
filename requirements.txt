@@ -1,0 +1,5 @@
+sentence-transformers
+faiss-cpu
+tiktoken
+semantic-text-splitter
+mistune

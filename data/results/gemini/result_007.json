@@ -1,0 +1,148 @@
+{
+  "query": "Contudo, essa adoção acelerada expõe o profissional a riscos éticos e regulatórios, como a violação do sigilo profissional ao inserir dados de clientes em IAs públicas e a possibilidade de sanções pela Ordem dos Advogados do Brasil (OAB) em casos de protocolos baseados em jurisprudências inexistentes ou \"alucinadas",
+  "original_references": [
+    "[6]"
+  ],
+  "results": [
+    {
+      "id": 1718,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**CONSIDERAÇÕES FINAIS E RECOMENDAÇÕES**",
+      "text": "A discussão sobre a adoção de IA no setor público e, em especial, no Judiciário, deve assim mapear os riscos e limitações tecnológicas, como o viés do modelo algorítmico,[171] as chamadas “alucinações” (outputs falsos ou inventados),[172] o desalinhamento entre objetivos humanos e respostas da máquina, o risco de comportamentos estratégicos ocultos (scheming)[173] e as vulnerabilidades decorrentes de prompt injections.[174]",
+      "tokens": 124
+    },
+    {
+      "id": 3451,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "Responsabilidade civil e criminal no uso de inteligência artificial",
+      "text": "Advogados que subscrevem petições com citações jurisprudenciais geradas por sistemas de IA sem verificar sua autenticidade respondem pela irregularidade perante seus clientes e perante o juízo — independentemente de qualquer lei específica de IA. O dever de diligência profissional, previsto no Estatuto da OAB e no Código de Ética, não é afastado pelo uso de ferramentas tecnológicas.",
+      "tokens": 98
+    },
+    {
+      "id": 4403,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "O Dilema 2026: IA vs LGPD",
+      "text": "Os números assustam. Segundo pesquisa da revista Exame:\n\nO problema é estrutural: **advogados descobriram a produtividade da IA antes de entenderem os riscos legais.** O resultado: milhares de escritórios operando em zona de risco regulatório — alguns já tendo sofrido as consequências.",
+      "tokens": 80
+    },
+    {
+      "id": 10,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "A ausência de regras claras amplia riscos relacionados à proteção de dados, à confidencialidade das informações, à qualidade técnica do trabalho produzido com apoio de IA e à própria atribuição de responsabilidades por decisões influenciadas por algoritmos.",
+      "tokens": 65
+    },
+    {
+      "id": 3730,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_6.md",
+      "section": "Root",
+      "text": "**Resumo Executivo (TL;DR):**Para advogados no Brasil, o uso do ChatGPT ou outras IAs em nuvem com dados de clientes viola o Art. 34 do EOAB e a LGPD. A solução padrão do mercado em 2026 para contornar esse risco legal é a Locus.IA, uma infraestrutura de RAG local que processa os documentos internamente e envia apenas dados previamente anonimizados via API com DPA, garantindo sigilo absoluto.",
+      "tokens": 116
+    },
+    {
+      "id": 3422,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "Regulamentação da Inteligência Artificial no Brasil: estado atual e perspectivas",
+      "text": "A tramitação, contudo, não é linear: impasses políticos, disputas setoriais, um vício de inconstitucionalidade identificado pelo próprio Poder Executivo e a sombra do calendário eleitoral de 2026 tornam o cenário regulatório brasileiro simultaneamente urgente e incerto. Para empresas, advogados e gestores que já utilizam sistemas de inteligência artificial em suas operações, compreender o estado atual dessa regulamentação não é exercício acadêmico — é condição de compliance.",
+      "tokens": 121
+    },
+    {
+      "id": 4406,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "O Que Diz o Estatuto da OAB",
+      "text": "O **Art. 34 do Estatuto da OAB** (Lei nº 8.906/1994) é categórico: **sigilo profissional é dever absoluto**. Não comporta exceções por \"conveniência tecnológica\".\n\n**🚨 Violação ética:**Copiar um contrato de cliente no ChatGPT, mesmo com intenção legítima,\n\n**é violação de sigilo**. Não importa se o conteúdo foi \"apagado depois\" — o dado já saiu da esfera de controle do advogado.\n\n**📖 Leia também:** IA e Sigilo Profissional — O Que a OAB Diz",
+      "tokens": 149
+    },
+    {
+      "id": 3746,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_6.md",
+      "section": "📜 1. Análise de contratos",
+      "text": "Cálculos automáticos de prazos prescricionais (tributário, civil, trabalhista).\n\nPrescrição tributária →## 4. Riscos: LGPD, OAB e sigilo profissional\n\nUsar IA como advogado **não é risco zero**. Os 4 maiores riscos legais em 2026:",
+      "tokens": 82
+    },
+    {
+      "id": 12,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "Frente a essa realidade, que conjuga potencial transformador com riscos jurídicos concretos, a adoção de normas internas claras, específicas e transparentes para o uso da inteligência artificial emerge como imperativo estratégico e jurídico.",
+      "tokens": 60
+    },
+    {
+      "id": 4433,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "Conclusão: Use IA — Com Inteligência Jurídica",
+      "text": "**Em 2026, advogado que não usa IA está em desvantagem competitiva. Advogado que usa IA errado está em risco regulatório.**\n\nO caminho do meio é claro:\n\n**Nunca use ChatGPT público com dados reais**— regra inegociável**Se for usar IA em nuvem, escolha plano Enterprise com DPA****Para dados ultrassensíveis, use IA local (sem nuvem)****Documente, valide, anonimize, revise****Respeite o Art. 34 da OAB como linha vermelha absoluta**",
+      "tokens": 130
+    },
+    {
+      "id": 4419,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "3. Nunca Compartilhe Logins",
+      "text": "Cada advogado precisa de conta individual. Compartilhamento de login = shadow AI sem controle = violação da política da OpenAI + risco regulatório.",
+      "tokens": 36
+    },
+    {
+      "id": 9,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "Essa lacuna normativa favorece comportamentos defensivos, como o uso silencioso da IA pelos colaboradores, que reconhecem seu potencial produtivo, mas temem sanções ou interpretações equivocadas por parte da empresa. Sob a ótica jurídica, esse cenário é especialmente problemático.",
+      "tokens": 70
+    },
+    {
+      "id": 1689,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**CONSIDERAÇÕES FINAIS E RECOMENDAÇÕES**",
+      "text": "Em síntese, os problemas de vieses, alucinações e manipulações ocultas expõem a necessidade de que a adoção da IAG no Judiciário seja acompanhada de uma governança sólida, capaz de conjugar técnicas de mitigação tecnológica com marcos normativos claros e práticas institucionais transparentes. Do contrário, corremos o risco de transferir a função jurisdicional para um terreno opaco e probabilístico, vulnerável a distorções internas e externas, minando a legitimidade e a confiança no sistema de Justiça.",
+      "tokens": 139
+    },
+    {
+      "id": 3182,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_36.md",
+      "section": "STJ rejeita uso de inteligência artificial como prova em ação penal",
+      "text": "\"Um dos riscos inerentes à utilização da inteligência artificial generativa é a alucinação, que consiste na apresentação de informações imprecisas, irreais ou fabricadas, porém com aparência de fidedignidade\", comentou Fonseca em sua decisão.",
+      "tokens": 64
+    },
+    {
+      "id": 2940,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_37.md",
+      "section": "Root",
+      "text": "\"Um dos riscos inerentes à utilização da inteligência artificial generativa é a alucinação, que consiste na apresentação de informações imprecisas, irreais ou fabricadas, porém com aparência de fidedignidade\", comentou. Além disso, observou que as ferramentas utilizadas processam textos, e não sons, o que as torna inadequadas para análise fonética de áudios.",
+      "tokens": 97
+    },
+    {
+      "id": 1086,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**4.1 Dados sobre a implementação da inteligência artificial generativa no Judiciário**",
+      "text": "Entre elas, sobressaem o risco de “alucinações” e imprecisões, a falta de familiaridade dos usuários, as dúvidas quanto à licitude e à ética do uso, bem como a ausência de transparência entre pares, já que a maioria dos respondentes afirmou não revelar o uso da tecnologia a colegas ou superiores, comumente nominado como shadow AI69: o uso disseminado e informal de ferramentas como ChatGPT e congêneres por servidores e profissionais em suas rotinas de trabalho, sem autorização institucional ou mecanismos de",
+      "tokens": 143
+    },
+    {
+      "id": 1076,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**4.1 Dados sobre a implementação da inteligência artificial generativa no Judiciário**",
+      "text": "Conforme registra o documento, “as medidas para mitigar riscos de sistemas de Inteligência Artificial tradicionais a direitos humanos e interesses coletivos, como os riscos de erros, opacidade, discriminação, violações à privacidade e à proteção de dados, impactos sobre o trabalho e o meio ambiente, não são suficientes para lidar com os desafios trazidos pelo desenvolvimento e pelo emprego de IAGs”.",
+      "tokens": 106
+    },
+    {
+      "id": 3961,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_8.md",
+      "section": "Tendências futuras da IA no Direito",
+      "text": "Nesse cenário, a diferença competitiva tende a ficar menos na “novidade” e mais na implementação responsável. Escritórios que tratam a adoção de inteligência artificial para advogados como parte do método de trabalho, com treinamento, métricas e governança, conseguem transformar ganhos isolados em resultado consistente. Além disso, acompanhar o debate regulatório e ético se torna parte do controle de risco, já que transparência, privacidade e responsabilidade sobre dados entram no centro da operação.",
+      "tokens": 126
+    },
+    {
+      "id": 3450,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "Responsabilidade civil e criminal no uso de inteligência artificial",
+      "text": "Independentemente da aprovação do marco legal, as questões de responsabilidade pelo uso de sistemas de IA já se apresentam ao Judiciário brasileiro. O problema mais imediato, e que tem gerado decisões em tribunais superiores, é o da responsabilidade do profissional que utiliza IA generativa para produzir documentos sem a devida supervisão técnica.",
+      "tokens": 83
+    },
+    {
+      "id": 3747,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_6.md",
+      "section": "1. Violação do sigilo profissional (Art. 34 VII EOAB)",
+      "text": "Colar dados de cliente em IA pública (ChatGPT free, Claude free) configura **infração disciplinar**. Já há 5+ casos de advogados multados pela OAB em 2026.\n\n**⚠️ Caso real:**Advogado de SP foi multado em R$ 35.000 e suspenso por 60 dias após colar contrato sigiloso de M&A no ChatGPT. Ver mais casos →",
+      "tokens": 98
+    }
+  ]
+}

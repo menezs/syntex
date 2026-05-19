@@ -1,0 +1,148 @@
+{
+  "query": "Em 2025, o lançamento do Painel de Fiscalização permitiu ao mercado monitorar quais setores estão sendo mais visados por sanções. A conformidade prática em 2026 exige que as organizações tenham um Encarregado de Dados (DPO) ativo, planos de resposta a incidentes testados e processos de auditoria contínua, especialmente para sistemas que utilizam IA e tratam dados sensíveis ou de menores de idade",
+  "original_references": [
+    "[3]"
+  ],
+  "results": [
+    {
+      "id": 3441,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "O vácuo regulatório atual e a aplicação da LGPD",
+      "text": "A Autoridade Nacional de Proteção de Dados já demonstrou disposição para atuar nesse espaço. A ANPD publicou, em dezembro de 2025, o Mapa de Temas Prioritários para o biênio 2026-2027, incluindo inteligência artificial e tecnologias emergentes como um dos quatro eixos centrais de fiscalização. O sandbox regulatório de IA da ANPD — mecanismo que permite o teste controlado de inovações tecnológicas em ambiente regulatório supervisionado — já se encontra em fase de operação com empresas selecionadas.",
+      "tokens": 130
+    },
+    {
+      "id": 4427,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "Posicionamento da ANPD (2025-2026)",
+      "text": "A ANPD tem sinalizado que 2026 será ano de **intensificação fiscalizatória**. Áreas de foco:\n\n- Uso de IA sem DPA\n- Transferência internacional sem base legal\n- Falta de consentimento informado\n- Retenção desnecessária de dados\n\n**📖 Aprofunde:** ANPD Vai Intensificar Fiscalização em 2026",
+      "tokens": 86
+    },
+    {
+      "id": 2059,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_26.md",
+      "section": "Root",
+      "text": "A fiscalização ficará a cargo da Agência Nacional de Proteção de Dados (ANPD), uma entidade independente, que deverá agir com transparência. A ANPD poderá aplicar advertências e multas. Em casos mais graves, a suspensão ou proibição da atividade de uma plataforma no Brasil dependerá de decisão judicial.\n\nA lei começará a ser fiscalizada seis meses após a sua sanção, ou seja, em março de 2026. Esse prazo serve para que as plataformas possam se adaptar às regras.",
+      "tokens": 127
+    },
+    {
+      "id": 2932,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_11.md",
+      "section": "Quando começa a fiscalização do novo ECA Digital?",
+      "text": "Segundo o material divulgado pelo ECA, **a fiscalização começará seis meses após a sanção da lei.** O prazo funciona como uma janela para que as plataformas se adaptem às novas regras antes de serem cobradas por algum tipo de descumprimento.\n\nA fiscalização será realizada pela Agência Nacional de Proteção de Dados; **entre as medidas citadas estão advertências e multas**, enquanto punições mais graves vão depender de decisão judicial.\n\nhttps://www.youtube.com/live/j-dYSRzY3TI",
+      "tokens": 125
+    },
+    {
+      "id": 3120,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_12.md",
+      "section": "Saudi Arabia",
+      "text": "The *Personal Data Protection Law* (PDPL), administered by SDAIA, took effect September 14, 2024. SDAIA has issued 48 violation decisions in 2024 and 2025. This is not paper regulation.\n\nThe government declared 2026 the \"Year of AI\" and released an *AI Adoption Framework*, mandatory for the public sector. Five pillars: data governance, model accountability, transparency, human oversight, risk management.",
+      "tokens": 94
+    },
+    {
+      "id": 3473,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "Perguntas frequentes sobre a regulamentação da inteligência artificial no Brasil",
+      "text": "A ANPD já fiscaliza o cumprimento dessas obrigações e incluiu IA como eixo prioritário de atuação para 2026-2027.",
+      "tokens": 36
+    },
+    {
+      "id": 3072,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_12.md",
+      "section": "The Global AI Regulatory Map",
+      "text": "| Jurisdiction | Regulation | Status | Effective Date | Key Obligation | Penalty Ceiling |\n|---|---|---|---|---|---|\nEU | AI Act | Enforcing (phased) | Feb 2025 (banned); Aug 2025 (GPAI); Aug 2026 (general) | Risk-tier compliance, impact assessments | 7% global turnover / €35M |\nUS Federal | Trump EO + AI Action Plan | Enacted | Dec 2025 / July 2025 | Preemption + sector guidance | N/A (executive action) |",
+      "tokens": 122
+    },
+    {
+      "id": 3074,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_12.md",
+      "section": "The Global AI Regulatory Map",
+      "text": "China | Layered regulations | Enforcing | Aug 2023 onwards | Filing, labeling, content | Administrative |\nSaudi Arabia | PDPL + AI Framework | Enforcing | Sept 2024 / 2026 | Data protection + AI governance | SDAIA enforcement |\nUAE | PDPL | Enforcing (transition) | Jan 2026 | Data protection + AI | Regulatory penalties |\nCouncil of Europe | Framework Convention | In force | 1 Nov 2025 | Human rights + democracy | International accountability |",
+      "tokens": 106
+    },
+    {
+      "id": 3121,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_12.md",
+      "section": "United Arab Emirates",
+      "text": "The PDPL takes effect January 1, 2026 (transition period); full compliance January 1, 2027. The CBUAE issued AI/ML guidance (February 2026) applying to all licensed financial institutions: board accountability, model inventory, annual bias testing, kill-switch requirements, consumer opt-out, and human review rights. AI governance is integrated within data protection, with no standalone AI statute.",
+      "tokens": 85
+    },
+    {
+      "id": 2028,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_17.md",
+      "section": "Root",
+      "text": "O cenário que vejo para 2026 não permite mais improvisos na gestão jurídica. Empresas que desejam segurança precisam adotar certificações sólidas e reconhecidas internacionalmente. O aumento dos ataques cibernéticos e das exigências regulatórias elevou o padrão mínimo do mercado, colocando a ISO 27001 como critério obrigatório, não mais opcional.",
+      "tokens": 92
+    },
+    {
+      "id": 66,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_64.md",
+      "section": "As questões relacionadas ao respeito à privacidade e à proteção de dados em 2026",
+      "text": "O respeito ao direito à privacidade é um pilar fundamental da legislação em 2026. Diante da proliferação de dispositivos conectados, aplicativos móveis e plataformas online, a segurança dos dados pessoais precisa ser reforçada. A transposição de diretivas europeias, como a DAC8, exige que os profissionais do setor exerçam maior vigilância no tratamento da informação.",
+      "tokens": 100
+    },
+    {
+      "id": 3514,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_21.md",
+      "section": "RESOLUÇÕES",
+      "text": "Aprova o Regulamento do Processo de Fiscalização e do Processo Administrativo Sancionador no âmbito da Autoridade Nacional de Proteção de Dados. Acesse aqui o processo completo. | Vigente com retificações pela Resolução CD/ANPD nº 4, de 24 de fevereiro de 2023 |",
+      "tokens": 78
+    },
+    {
+      "id": 3443,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "O vácuo regulatório atual e a aplicação da LGPD",
+      "text": "Empresas que operam sistemas de IA com dados pessoais devem, portanto, tratar a adequação à LGPD não como etapa preparatória para uma futura lei de IA, mas como obrigação corrente e exigível. A postura da ANPD em casos recentes — como a suspensão de funcionalidades de plataformas de tecnologia que utilizavam dados de usuários para treinamento de sistemas sem base legal adequada — demonstra que a fiscalização não aguarda a aprovação do PL 2.338/2023.",
+      "tokens": 122
+    },
+    {
+      "id": 3515,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_21.md",
+      "section": "Portarias",
+      "text": "Ato | Ementa | Status Atual |\nTorna pública a Agenda Regulatória para o biênio 2023-2024. Acesse aqui o processo completo. | Vigente | |\nAprova o processo de regulamentação no âmbito da Autoridade Nacional de Proteção de Dados | Vigente | |\nTorna pública a agenda regulatória para o biênio 2021-2022. Acesse aqui o processo completo. | Vigente, considerando-se a RETIFICAÇÃO de 01/07/2022 |",
+      "tokens": 122
+    },
+    {
+      "id": 1970,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "Regulamentacoes da ANPD#",
+      "text": "-\n**Regulamento de Dosimetria**: estabeleceu critérios objetivos para calculo de sancoes administrativas -\n**Norma sobre Encarregado de Dados (DPO)**: definiu perfil, atribuicoes e casos de dispensa -\n**Regulamento de Comunicacao de Incidentes**: prazos e procedimentos para notificação de vazamentos -\n**Guia sobre Transferencia Internacional**: mecanismos validos para fluxo transfronteirico de dados -",
+      "tokens": 110
+    },
+    {
+      "id": 2058,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_26.md",
+      "section": "Root",
+      "text": "Devem também guardar, por no mínimo seis meses, os dados relacionados ao caso para ajudar nas investigações. A remoção do conteúdo pode ser solicitada pelas vítimas, por seus responsáveis, pelo Ministério Público ou por entidades de proteção.\n\nA lei começará a ser fiscalizada seis meses após a sua sanção, ou seja, em março de 2026. Esse prazo serve para que as plataformas possam se adaptar às regras.",
+      "tokens": 109
+    },
+    {
+      "id": 3437,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "A tramitação na Câmara dos Deputados: impasses e controvérsias",
+      "text": "Para sanar o problema, o Executivo encaminhou, em dezembro de 2025, projeto de lei complementar que cria o Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial (SIA) e formaliza o papel da ANPD como coordenadora do sistema. Esse projeto deverá ser apensado ao PL 2.338/2023, o que adiciona mais uma camada de complexidade à tramitação.",
+      "tokens": 99
+    },
+    {
+      "id": 2007,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_17.md",
+      "section": "Root",
+      "text": "O uso detalhado desses controles está tornando-se padrão mínimo em 2026. Clientes mais sofisticados já condicionam contratos apenas a fornecedores que possuam a certificação vigente, pois confiar apenas em orientações teóricas já se mostrou insuficiente.\n\n**Por que o jurídico deve exigir essa norma de seus fornecedores de software?**",
+      "tokens": 89
+    },
+    {
+      "id": 2060,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_26.md",
+      "section": "Root",
+      "text": "A fiscalização ficará a cargo da Agência Nacional de Proteção de Dados (ANPD), uma entidade independente, que deverá agir com transparência. A ANPD poderá aplicar advertências e multas. Em casos mais graves, a suspensão ou proibição da atividade de uma plataforma no Brasil dependerá de decisão judicial.",
+      "tokens": 79
+    },
+    {
+      "id": 4429,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "Tendência Regulatória",
+      "text": "Espere, ao longo de 2026-2027:\n\n- Guia da ANPD específico sobre IA e LGPD\n- Regulamentação OAB sobre uso de IA pela advocacia\n- PL 2338/2023 (Marco Legal da IA) sendo aprovado\n- Jurisprudência consolidando parâmetros práticos",
+      "tokens": 76
+    }
+  ]
+}

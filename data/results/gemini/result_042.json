@@ -1,0 +1,148 @@
+{
+  "query": "Os _smart contracts_ (contratos inteligentes) são fundamentais para a \"desjudicialização da execução civil\". Ao permitirem que cláusulas contratuais sejam redigidas em linguagem computacional e executadas automaticamente por algoritmos quando condições pré-definidas são cumpridas, esses instrumentos conferem maior efetividade ao adimplemento contratual sem a necessidade de intervenção judicial",
+  "original_references": [
+    "[46]"
+  ],
+  "results": [
+    {
+      "id": 1901,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_45.md",
+      "section": "Este artigo propõe uma análise sobre os smart contracts como instrumento de inovação na execução civil.",
+      "text": "Os* smart contracts *ou contratos inteligentes, numa tradução literal*, *podem ser conceituados como uma ferramenta para execução de negócios jurídicos. Embora exista uma controvérsia em torno do conceito, pode-se afirmar que são contratos nos quais a execução é automatizada, porque realizada por um sistema no qual a operação é determinada por algoritmos4.",
+      "tokens": 95
+    },
+    {
+      "id": 1905,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_45.md",
+      "section": "Este artigo propõe uma análise sobre os smart contracts como instrumento de inovação na execução civil.",
+      "text": "Os *smart contracts* funcionam como medidas sub-rogatórias, nas quais o cumprimento da prestação independe da vontade do devedor, uma vez que é delegado a uma rede descentralizada8. No âmbito da execução civil, essa dinâmica pode simplificar operações como transferências de ativos ou pagamentos de quantias, e garantir o cumprimento imediato e seguro de obrigações.",
+      "tokens": 97
+    },
+    {
+      "id": 3703,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_61.md",
+      "section": "O que são Smart Contracts?",
+      "text": "Smart contracts, ou contratos inteligentes, são programas de computador que executam automaticamente cláusulas contratuais, sem a necessidade de intermediários. São amplamente utilizados em blockchains, como Ethereum, e têm aplicação crescente em operações financeiras, investimentos e negócios digitais.",
+      "tokens": 69
+    },
+    {
+      "id": 3539,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "**- Execução e cumprimento automáticos:** Os *smart contracts* alteram aforma de executar obrigações. Num contrato tradicional, a inadimplência ou descumprimento dá ensejo a medidas executivas judiciais. Já o código de um *smart contract *não admite descumprimento: ele **se cumpre forçadamente**, transferindo valores ou ativos apenas quando ocorrer a condição prevista.",
+      "tokens": 99
+    },
+    {
+      "id": 3704,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_61.md",
+      "section": "O que são Smart Contracts?",
+      "text": "Apesar da nomenclatura, é importante ressaltar: smart contracts não são contratos “inteligentes” no sentido de pensarem sozinhos, nem necessariamente contratos legais. São códigos que automatizam instruções pré-definidas.",
+      "tokens": 59
+    },
+    {
+      "id": 1900,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_45.md",
+      "section": "Este artigo propõe uma análise sobre os smart contracts como instrumento de inovação na execução civil.",
+      "text": "No debate contemporâneo, emergem como alternativas promissoras a desjudicialização da execução civil - com modelos multiportas, que redistribuem a atividade executiva entre diferentes atores e instrumentos - e a utilização de tecnologias inovadoras, como os* smart contracts*.3",
+      "tokens": 65
+    },
+    {
+      "id": 3978,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_43.md",
+      "section": "**A Tecnologia:** _**Blockchain**_ **e** _**Smart Contracts**_",
+      "text": "Os _smart contracts_ – contratos inteligentes – são programas que executam automaticamente termos contratuais quando condições são satisfeitas. Se o veículo tokenizado é alugado por R$ 10.000, o _smart contract_ distribui automaticamente esse valor entre todos os titulares de tokens proporcionalmente, em segundos, sem possibilidade de erro ou fraude. \n\n**A blockchain é extraordinária para registro técnico, transferências instantâneas e transparência tecnológica** . É nisso que ela é insuperável.",
+      "tokens": 122
+    },
+    {
+      "id": 3531,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "*smart contracts*podem espelhar váriasestruturas contratuais tradicionais. Em transações de compra e venda deimóveis, por exemplo, um smart contract pode ser programado paraliberar recursos financeiros somente após atestar eletronicamente oregistro do imóvel no órgão competente. Já em seguros paramétricos, umcontrato inteligente poderia pagar automaticamente ao segurado se sensores registrarem determinados eventos (como excesso de temperatura ou volume de chuvas).",
+      "tokens": 116
+    },
+    {
+      "id": 1910,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_45.md",
+      "section": "Este artigo propõe uma análise sobre os smart contracts como instrumento de inovação na execução civil.",
+      "text": "Portanto, ao permitir a satisfação célere de prestações, os *smart contracts* se aproximam da lógica processual segundo a qual a execução deve converter o direito reconhecido em resultado concreto. A automação tecnológica, nesse sentido, alinha-se à concepção de uma cognição orientada pela efetividade. Contudo, trata-se de uma tecnologia ainda incipiente, que demanda avanços significativos antes de se consolidar como verdadeiro marco no direito obrigacional.12\n\n__________",
+      "tokens": 124
+    },
+    {
+      "id": 3527,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "*smart contract*como “um acordo em formato digital que é auto-executado e auto-implementado”. Na prática, trata-se de um software que contém cláusulas contratuais em linguagem de programação. Quando determinadas condições preestabelecidas são atendidas, o próprio código executa as obrigações pactuadas sem intervenção humana.",
+      "tokens": 83
+    },
+    {
+      "id": 3702,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_61.md",
+      "section": "Smart Contracts e Investimentos: Blindagem Jurídica em Contratos Automatizados",
+      "text": "Em um mundo onde as transações digitais crescem a cada dia, os\nsmart contracts têm ganhado destaque como ferramentas inovadoras para automatizar negociações e reduzir a burocracia. Mas, para que funcionem com segurança e garantam a proteção dos investidores, é essencial uma\n**blindagem jurídica eficiente**.",
+      "tokens": 83
+    },
+    {
+      "id": 3526,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "*Smart contracts*são contratos codificados em programas de computador, autônomos e autoexecutáveis. Werbach e Cornell definem",
+      "tokens": 31
+    },
+    {
+      "id": 1904,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_45.md",
+      "section": "Este artigo propõe uma análise sobre os smart contracts como instrumento de inovação na execução civil.",
+      "text": "Os contratos inteligentes são aplicados pela tecnologia *blockchain*, que nada mais é do que um grande banco de dados, mantido por diversos computadores conectados (denominados “nós”), e que só pode ser alterado mediante consenso dos envolvidos. Esse mecanismo garante a imutabilidade dos registros, a rastreabilidade e a descentralização, de forma a eliminar a necessidade de intermediários e reduzir os custos da transação.7",
+      "tokens": 106
+    },
+    {
+      "id": 3529,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "*smart contracts*operam sobre a mesma cadeia de blockchain dos criptoativos, o que lhes confere descentralização, segurança criptográfica e imutabilidade do código. Cada contrato inteligente é armazenado em um bloco da rede e executado por mineradores (ou validadores) que alcançam consenso sobre seu resultado. Em linhas gerais, “as operações realizadas na",
+      "tokens": 90
+    },
+    {
+      "id": 72,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_64.md",
+      "section": "Contratos inteligentes e digitalização das atividades",
+      "text": "Esta tendência é central para a modernização do direito contratual e empresarial. A proliferação de contratos inteligentes (smart contracts), impulsionados por tecnologias como blockchain, redefine a forma como as transações são executadas e garantidas. No Brasil, o reconhecimento de contratos eletrônicos e a crescente adoção de assinaturas digitais e eletrônicas já pavimentam o caminho para uma maior aceitação e regulamentação dessas novas formas contratuais.",
+      "tokens": 112
+    },
+    {
+      "id": 1907,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_45.md",
+      "section": "Este artigo propõe uma análise sobre os smart contracts como instrumento de inovação na execução civil.",
+      "text": "Tradicionalmente, cabe ao credor envidar esforços, assumir custos e suportar riscos para acionar o Poder Judiciário e obter o adimplemento de uma obrigação, ainda que possua título (judicial ou extrajudicial) dotado de presunção e verossimilhança. Contudo, como demonstrado, a execução judicial apresenta índices elevadíssimos de ineficiência. O uso de tecnologias como os *smart contracts* surge como alternativas potenciais, efetivas e seguras para o evitar tais entraves.9",
+      "tokens": 139
+    },
+    {
+      "id": 3534,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "*smart contracts*representamuma nova forma de formalizar o acordo: as promessas constam em códigoao invés de texto tradicional. No entanto, essa tecnologia introduz peculiaridades, como a inexorabilidade do código, a dificuldade de modificação pós-firmação e eventuais erros de programação que podem causar prejuízos imprevisíveis. São desafios ligados não só à semântica jurídica, mas também à segurança (falhas de código) e à proteção de dados (veja [28†L238-L246]).",
+      "tokens": 129
+    },
+    {
+      "id": 3705,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_61.md",
+      "section": "Aplicações práticas para investidores",
+      "text": "Empresas e investidores utilizam smart contracts, por exemplo, para:\n\n- Formalizar aportes em startups via tokens;\n- Automatizar pagamentos condicionais (como metas de desempenho);\n- Gerenciar dividendos e participações societárias em projetos tokenizados;\n- Executar cláusulas de recompra de ações ou distribuição de lucros.\n\nEsses contratos trazem agilidade e confiança, mas também\n**novos riscos jurídicos** — que podem ser evitados com assessoria especializada.",
+      "tokens": 126
+    },
+    {
+      "id": 3532,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_47.md",
+      "section": "Root",
+      "text": "Setores como cadeia de suprimentos, IoT, direitos autorais e até relações societárias vêm testando essas aplicações. O advogado Pedro Cruz nota que\n\n*smart contracts*têm sidoúteis em “operações financeiras, transações imobiliárias, acordos decompra e venda, gestão de direitos autorais e automação de processosadministrativos”, oferecendo maior eficiência e redução de burocracia.",
+      "tokens": 107
+    },
+    {
+      "id": 3706,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_61.md",
+      "section": "Blindagem jurídica: por que é essencial?",
+      "text": "Por serem escritos em linguagem de programação, os smart contracts\n**não contemplam automaticamente todas as exigências legais brasileiras**. Sem a revisão e estruturação jurídica adequada, podem haver:\n\n- Cláusulas inválidas ou sem efeito legal;\n- Conflito com o Código Civil ou normas regulatórias (como a CVM);\n- Exposição a fraudes digitais e vazamento de dados sensíveis;\n- Dificuldades em resolver disputas contratuais via Judiciário.",
+      "tokens": 121
+    }
+  ]
+}

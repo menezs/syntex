@@ -1,0 +1,148 @@
+{
+  "query": "No Direito, há desafios práticos: como provar o “verdadeiro” interesse de uma plataforma por menores? Questões de jurisdicao surgem se plataforma estrangeira viola a lei brasileira. Para advogados, oferecerá novas causas cíveis (família contra provedores) e criminais (os dispositivos ainda prevêm crimes de negligência na proteção de menores). A compatibilização com LGPD é também delicada (uso de dados de menores requer consentimento parental segundo LGPD). \n\n- **Recomendações:** Profissionais já devem mapear quais produtos/serviços da empresa se enquadram no escopo (considerando “acesso provável",
+  "original_references": [
+    "[27]"
+  ],
+  "results": [
+    {
+      "id": 1991,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "Conclusao#",
+      "text": "A LGPD e uma realidade consolidada que exige atualização constante dos profissionais do Direito. Em 2026, não basta conhecer a lei — e preciso dominar as regulamentacoes complementares, acompanhar a jurisprudência e entender os desafios práticos da implementação, especialmente na intersecao com novas tecnologias como a inteligencia artificial.",
+      "tokens": 86
+    },
+    {
+      "id": 1992,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "Conclusao#",
+      "text": "O Portal do Advogado.AI oferece trilhas especializadas em Direito Digital e LGPD, com Labs práticos que simulam situações reais de adequacao, auditoria e resposta a incidentes.\n\nAdvogados que investirem em capacitação prática nesta área estarão posicionados para aproveitar as oportunidades de um mercado em franca expansao.\n\n*Acompanhe nosso blog para mais conteúdos sobre LGPD, proteção de dados e tecnologia jurídica.*",
+      "tokens": 106
+    },
+    {
+      "id": 2057,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_26.md",
+      "section": "Root",
+      "text": "As plataformas devem adotar medidas para evitar conteúdos que violem os direitos das crianças. Isso inclui casos de assédio sexual, cyberbullying e incentivo ao suicídio ou à automutilação. Elas também são obrigadas a identificar e remover conteúdos que indiquem exploração, abuso sexual, sequestro ou aliciamento de crianças. As plataformas precisam ainda enviar relatórios às autoridades com informações sobre o que foi removido ou denunciado.",
+      "tokens": 119
+    },
+    {
+      "id": 1650,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**c) SUVAS (Supreme Court Vidhik Anuvaad Software)**",
+      "text": "Vale destacar a abrangência material da plataforma, que é aplicável desde contextos trabalhistas, criminais e de família até disputas sobre posse de terras, direitos dos consumidores e causas religiosas ou fundiárias[144] .",
+      "tokens": 60
+    },
+    {
+      "id": 3487,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_29.md",
+      "section": "Devem:",
+      "text": "- Confirmar a idade de verdade; \n\n- Proteger os dados das crianças; \n\n- Não direcionar propaganda para crianças; \n\n- Não usar dados para manipular consumo; \n\n- Retirar imediatamente conteúdos de abuso; \n\n- Comunicar crimes às autoridades; \n\n- Criar plataformas mais seguras desde o início (proteção por padrão). \n\nSe não cumprirem, podem ser responsabilizadas. Internet segura também é obrigação das empresas.",
+      "tokens": 112
+    },
+    {
+      "id": 68,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_64.md",
+      "section": "As questões relacionadas ao respeito à privacidade e à proteção de dados em 2026",
+      "text": "Para além das principais estratégias de segurança, a gestão do impacto da revolução tecnológica no direito à privacidade levanta questões sem precedentes no Brasil, como a gestão dos riscos associados à vigilância generalizada ou à exploração de dados biométricos. A criação de quadros jurídicos inovadores, como a Lei Geral de Proteção de Dados (LGPD), deve equilibrar a inovação tecnológica e o respeito pela privacidade, caso contrário, a confiança dos cidadãos e dos consumidores será abalada.",
+      "tokens": 141
+    },
+    {
+      "id": 1975,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "2. Analise de Base Legal#",
+      "text": "Cada tratamento de dados deve estar fundamentado em uma das bases legais previstas no artigo 7o da LGPD. As mais utilizadas na prática são:\n\n-\n**Consentimento**: para situações em que o titular manifesta concordância específica -\n**Execucao de contrato**: para tratamentos necessarios ao cumprimento de obrigações contratuais -\n**Legitimo interesse**: para finalidades legitimas do controlador, observados os direitos do titular -\n**Obrigacao legal**: quando o tratamento decorre de exigência legislativa",
+      "tokens": 124
+    },
+    {
+      "id": 3194,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_19.md",
+      "section": "O STJ vem redefinindo a responsabilidade civil digital por violações de dados pessoais, consolidando critérios que aproximam direito, tecnologia e proteção constitucional.",
+      "text": "A responsabilidade civil digital prevista na LGPD adota natureza objetiva, em consonância com seu desenho normativo e com a lógica de tutela preventiva que orienta a proteção de dados no Brasil. O legislador reconhece que a simples ocorrência do vazamento, da divulgação indevida ou do tratamento irregular já constitui violação suficiente para gerar responsabilização, independentemente de a informação ser classificada como sensível ou comum.",
+      "tokens": 108
+    },
+    {
+      "id": 76,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_64.md",
+      "section": "Respeito à privacidade e proteção de dados",
+      "text": "O direito à privacidade e a proteção de dados pessoais continuam sendo pilares fundamentais do Direito Digital. A LGPD no Brasil, inspirada no Regulamento Geral sobre a Proteção de Dados (GDPR) da União Europeia, estabeleceu um novo paradigma para o tratamento de dados. A proliferação de dispositivos conectados (IoT), aplicativos móveis e plataformas online intensifica a necessidade de reforçar a segurança e a governança dos dados.",
+      "tokens": 115
+    },
+    {
+      "id": 2930,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_11.md",
+      "section": "O que muda com o ECA Digital?",
+      "text": "**Exploração comercial:**vedação ao uso de dados ou perfis emocionais para publicidade, proibição de impulsionar ou monetizar conteúdos que retratem crianças de forma erotizada, e proibição de lootboxes em jogos eletrônicos.**Supervisão parental:**até 16 anos, acesso a redes sociais está condicionado a conta vinculada ao responsável, mas plataformas devem oferecer ferramentas claras para monitorar tempo de uso, contatos e conteúdos acessados.",
+      "tokens": 120
+    },
+    {
+      "id": 1984,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "Questoes centrais#",
+      "text": "Os Labs Juridicos do Portal do Advogado.AI incluem cenarios práticos sobre LGPD e IA, permitindo que advogados pratiquem a análise e adequacao de sistemas de inteligencia artificial a legislação de proteção de dados.",
+      "tokens": 56
+    },
+    {
+      "id": 2022,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_17.md",
+      "section": "Root",
+      "text": "- Mapeamento e classificação das informações segundo seu grau de sensibilidade.\n- Políticas de acesso mínimo indispensável, reduzindo a exposição de dados.\n- Capacidade de demonstrar cumprimento dos artigos da LGPD durante auditorias.\n- Facilidade para responder a solicitações de titulares de dados.\n- Procedimentos para notificação de incidentes e resposta rápida a violações.",
+      "tokens": 89
+    },
+    {
+      "id": 4431,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_10.md",
+      "section": "Recursos Oficiais",
+      "text": "**📍 ANPD — Portal Oficial:**\n\ngov.br/anpd — Guias, decisões e fiscalização.\n\n**📍 Lei Geral de Proteção de Dados (LGPD):**\n\nplanalto.gov.br — Lei nº 13.709/2018 — Texto integral.\n\n**📍 OAB Federal — Estatuto da Advocacia:**\n\nplanalto.gov.br — Lei nº 8.906/1994 — Art. 34 sobre sigilo profissional.\n\n**📍 CNJ — Resolução 615/2025:**\n\natos.cnj.jus.br — Política de uso de IA no Judiciário (referência de \"uso responsável\").\n\n**📍 Editora OAB/PE — Análise LGPD e ChatGPT:**",
+      "tokens": 165
+    },
+    {
+      "id": 2031,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_17.md",
+      "section": "Root",
+      "text": "**Por que o Jurídico deve exigir ISO 27001?**A exigência nasce da necessidade de evitar riscos como vazamentos de contratos, multas por descumprimento legal e interrupção de operações críticas. Apenas com parceiros certificados é possível comprovar o atendimento às normas brasileiras, como a LGPD, e garantir a reputação e a continuidade do negócio.",
+      "tokens": 99
+    },
+    {
+      "id": 71,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_64.md",
+      "section": "As questões relacionadas ao respeito à privacidade e à proteção de dados em 2026",
+      "text": "A complexidade do panorama regulamentar, que inclui também o Marco Civil da Internet, exige maior especialização entre os advogados em matéria de proteção de dados, o que é essencial para que as empresas se mantenham competitivas e, ao mesmo tempo, cumpram as suas obrigações.",
+      "tokens": 67
+    },
+    {
+      "id": 2019,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_17.md",
+      "section": "Root",
+      "text": "**Benefícios para o compliance e mitigação de riscos: como a certificação facilita auditorias e garante conformidade com leis de proteção de dados (LGPD)**\n\nMuitos departamentos jurídicos lidam com auditorias internas e externas rotineiramente. A cada novo ciclo, vejo crescer a pressão por evidências rápidas e confiáveis sobre a proteção dos dados.",
+      "tokens": 93
+    },
+    {
+      "id": 1968,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "Por Que a LGPD Continua Relevante em 2026#",
+      "text": "A Autoridade Nacional de Protecao de Dados (ANPD) amadureceu significativamente desde sua criacao, publicando regulamentacoes complementares, aplicando sancoes e estabelecendo precedentes importantes. Para o advogado, dominar a LGPD e suas ramificacoes práticas e uma competência fundamental.",
+      "tokens": 71
+    },
+    {
+      "id": 1972,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_3.md",
+      "section": "Jurisprudencia Relevante#",
+      "text": "Os tribunais brasileiros tem construido um corpo jurisprudencial relevante sobre proteção de dados. As decisões mais impactantes envolvem:\n\n-\n**Responsabilidade solidaria**de controlador e operador em casos de vazamento -\n**Dano moral presumido**em situações de exposição indevida de dados sensiveis -\n**Inversao do onus da prova**em favor do titular de dados -\n**Validade do consentimento**em relacoes de consumo e trabalhistas",
+      "tokens": 108
+    },
+    {
+      "id": 30,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_27.md",
+      "section": "ECA Digital, para proteção on-line de crianças e adolescentes, entra em vigor",
+      "text": "Vários pontos da lei ainda dependem de regulamentação para surtir efeito prático. O Poder Executivo terá, por exemplo, de regulamentar os requisitos mínimos de transparência, segurança e compartilhamento de informações de forma automática para os mecanismos de aferição de idade e de supervisão parental adotados pelos sistemas operacionais e pelas lojas de aplicativos.\n\n**Penalidades **",
+      "tokens": 99
+    },
+    {
+      "id": 2021,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_17.md",
+      "section": "Root",
+      "text": "Quando a LGPD entrou em vigor, ficou ainda mais evidente esse diferencial. Cumprir a Lei Geral de Proteção de Dados envolve muito mais do que um termo de consentimento assinado. O artigo 46 da lei exige que empresas adotem “medidas técnicas e administrativas capazes de proteger os dados pessoais”. É exatamente nesse ponto que a ISO/IEC 27001 se destaca: ela garante uma base de controles e políticas implementadas que atendem aos artigos mais críticos da legislação.",
+      "tokens": 130
+    }
+  ]
+}

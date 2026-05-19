@@ -1,0 +1,148 @@
+{
+  "query": "Juridicamente, a IA é tratada não apenas como um software, mas como um agente de processamento que deve observar a boa-fé e princípios como a explicabilidade e a supervisão humana efetiva",
+  "original_references": [
+    "[7]"
+  ],
+  "results": [
+    {
+      "id": 13,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "Tais políticas devem definir, de forma objetiva e operacional, quais ferramentas são autorizadas, quais usos são permitidos ou vedados, quais dados podem ser tratados, em quais situações a supervisão humana é obrigatória e, de modo inequívoco, quem responde pelos resultados produzidos com o auxílio da IA.",
+      "tokens": 87
+    },
+    {
+      "id": 2,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "Mais do que uma simples ferramenta de automação, a IA redefine funções, altera responsabilidades e impõe novos desafios de governança, especialmente no que se refere ao alinhamento entre estratégia empresarial, operação cotidiana e proteção jurídica.",
+      "tokens": 64
+    },
+    {
+      "id": 1771,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**CONSIDERAÇÕES FINAIS E RECOMENDAÇÕES**",
+      "text": ", a supervisão humana qualificada garante que a atividade jurisdicional permaneça indelegável, cabendo aos sistemas de IA apenas o papel de instrumentos de apoio, sempre submetidos à interpretação crítica e à validação dos julgadores.",
+      "tokens": 61
+    },
+    {
+      "id": 318,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "2.2.1 Regulamentação do uso de tecnologia no Judiciário",
+      "text": "A formulação ressalta, portanto, que, independentemente do grau de autonomia ou sofisticação, qualquer sistema que processe dados de maneira a produzir efeitos cognitivos ou operacionais sobre o funcionamento da Justiça deve ser compreendido como IA para fins de regulação. O objetivo ulterior da resolução é enquadrar preventivamente um espectro amplo de tecnologias, garantindo que sua disciplina jurídica não fique obsoleta diante da evolução técnica acelerada desses sistemas.",
+      "tokens": 124
+    },
+    {
+      "id": 1682,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**CONSIDERAÇÕES FINAIS E RECOMENDAÇÕES**",
+      "text": "Do mesmo modo, estruturas de supervisão humana qualificada, com transparência no uso de IA e treinamento contínuo de magistrados e servidores, são indispensáveis para assegurar que a tecnologia permaneça subordinada ao controle institucional e normativo.",
+      "tokens": 67
+    },
+    {
+      "id": 4171,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_38.md",
+      "section": "E o que isso diz sobre a nossa relação com a IA no dia a dia",
+      "text": "O que o STJ fez foi trazer esse bom senso para o processo penal:\n\n- IA é uma ferramenta poderosa, mas continua sendo uma ferramenta.\n- Ela não substitui método científico, perícia qualificada e responsabilidade humana.\n\nNo fim, a mensagem é simples e vale para todo mundo:se você vai tomar decisões sérias – na Justiça, na medicina, nas finanças ou na vida – use a IA como apoio, mas não terceirize seu julgamento para a máquina.\n\n**não refletem**necessariamente a opinião do\n\n**Grupo Record**.",
+      "tokens": 142
+    },
+    {
+      "id": 4166,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_38.md",
+      "section": "IA como ferramenta, não como oráculo",
+      "text": "O STJ reforça algo que o CNJ já vinha dizendo: sistemas de IA devem ser supervisionados por humanos, precisam ser transparentes, auditáveis e contestáveis. No processo penal, em que a liberdade está em jogo, esse cuidado tem de ser ainda maior.",
+      "tokens": 64
+    },
+    {
+      "id": 1,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "A IA - inteligência artificial deixou de ser uma promessa tecnológica para se tornar um elemento estruturante da organização do trabalho contemporâneo. Sua incorporação aos processos produtivos, decisórios e gerenciais vem promovendo transformações profundas nas relações de trabalho, exigindo das empresas e do Direito uma revisão de paradigmas historicamente consolidados.",
+      "tokens": 87
+    },
+    {
+      "id": 313,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "2.2.1 Regulamentação do uso de tecnologia no Judiciário",
+      "text": "centralidade da pessoa humana (IV) e o bem-estar dos jurisdicionados (II) como vetores de orientação normativa. Nesse sentido, a resolução reconhece a IA como instrumento auxiliar, cuja adoção deve potencializar a eficiência e inovação no setor público (III), mas jamais comprometer a integridade do processo judicial.",
+      "tokens": 85
+    },
+    {
+      "id": 1716,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**CONSIDERAÇÕES FINAIS E RECOMENDAÇÕES**",
+      "text": "Mais do que isso, a Resolução nº 615/2025 explicita que a supervisão humana é condição sine qua non para a legitimidade do uso da IA, ao estabelecer que não basta indicar no corpo da decisão que houve utilização da ferramenta (art. 19, § 6º), mas sim que é preciso registrar o uso no sistema interno do tribunal, garantindo que a revisão humana seja qualificada, com critérios claros de interpretação crítica e verificação de consistência.",
+      "tokens": 124
+    },
+    {
+      "id": 3742,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_6.md",
+      "section": "5. Inteligência aumentada (não substituição)",
+      "text": "IA não substitui advogado — substitui as *tarefas repetitivas*. Análise de contratos, primeira leitura de processos, transcrição de audiências, drafting inicial. A inteligência humana fica para o que importa: estratégia, julgamento, relacionamento.",
+      "tokens": 66
+    },
+    {
+      "id": 317,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "2.2.1 Regulamentação do uso de tecnologia no Judiciário",
+      "text": "A definição de sistema de IA adotada pelo CNJ no art. 4º, inciso I, segue uma concepção ampla e funcional. Trata-se de do “sistema baseado em máquina que, com diferentes níveis de autonomia e para objetivos explícitos ou implícitos, processa um conjunto de dados ou informações fornecido e com o objetivo de gerar resultados prováveis e coerentes de decisão, recomendação ou conteúdo, que possam influenciar o ambiente virtual, físico ou real”.",
+      "tokens": 120
+    },
+    {
+      "id": 17,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_52.md",
+      "section": "O trabalho contemporâneo se transforma com automação, exigindo requalificação, normas claras e governança para equilibrar produtividade, ética e segurança jurídica.",
+      "text": "A governança da IA, contudo, ultrapassa significativamente a mera edição de normas internas. Constitui processo contínuo e multidimensional que exige: (i) capacitação sistemática e atualizada de todos os níveis hierárquicos; (ii) revisão periódica das políticas em consonância com evoluções tecnológicas e regulatórias; (iii) mecanismos robustos de auditoria e monitoramento dos algoritmos em operação; e (iv) canais efetivos de diálogo, participação e feedback entre empresa e trabalhadores.",
+      "tokens": 135
+    },
+    {
+      "id": 2731,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_35.md",
+      "section": "Root",
+      "text": "Art. 3º O desenvolvimento, a governança, a auditoria, o monitoramento e o uso responsável de soluções de IA pelos tribunais têm como princípios:\n\nI – a justiça, a equidade, a inclusão e a não-discriminação abusiva ou ilícita;\n\nII – a transparência, a eficiência, a explicabilidade, a contestabilidade, a auditabilidade e a confiabilidade das soluções que adotam técnicas de inteligência artificial;\n\nIII – a segurança jurídica e a segurança da informação;",
+      "tokens": 129
+    },
+    {
+      "id": 3208,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_51.md",
+      "section": "**Revisão da literatura**",
+      "text": "Nesse contexto, a IA aparece como um conjunto particularmente potente de tecnologias em tarefas cognitivas e de processamento de informação, incluindo análise de texto, classificação, previsão e tomada de decisão baseada em padrões. \n\n**CARTA DO IBRE**",
+      "tokens": 69
+    },
+    {
+      "id": 306,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "2.2.1 Regulamentação do uso de tecnologia no Judiciário",
+      "text": "A norma parte do reconhecimento de que a IA deve ser utilizada como instrumento de inovação tecnológica e incremento da eficiência dos serviços judiciários, desde que sua aplicação observe padrões de segurança, transparência, isonomia e ética, sempre em benefício dos jurisdicionados e com estrita observância de seus direitos fundamentais.",
+      "tokens": 84
+    },
+    {
+      "id": 1588,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "_5.2.1.3 O uso de modelos de linguagem (LLMs) e inteligência artificial generativa por juízes e tribunais na China_",
+      "text": "O uso da IA é, portanto, adaptativo: cada juiz ou seção do tribunal pode configurar o sistema para produzir sentenças mais ou menos detalhadas, mais formais ou mais acessíveis, dependendo da natureza do litígio e do perfil das partes. Além disso, foram adotados mecanismos de verificação automática de erros factuais, coerência argumentativa e compatibilidade com jurisprudência anterior – medidas",
+      "tokens": 101
+    },
+    {
+      "id": 271,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**2.1 Etapas da digitalização do Judiciário brasileiro**",
+      "text": "a supervisão humana[47] . Essa iniciativa tem influenciado diretamente modelos normativos e boas práticas em diversas jurisdições, inclusive no Brasil, que passou a discutir de forma mais estruturada o desenvolvimento de diretrizes éticas e jurídicas para o uso da IA no sistema judicial.",
+      "tokens": 74
+    },
+    {
+      "id": 1756,
+      "document": "references_gemini_direito_e_tecnologia_regulações_e_IA_doc_33.md",
+      "section": "**CONSIDERAÇÕES FINAIS E RECOMENDAÇÕES**",
+      "text": "Isso significa implementar governança algorítmica com escopo definido, criar estruturas de auditoria independentes, garantir transparência para a sociedade e, sobretudo, redesenhar fluxos processuais para que a IA seja um músculo que amplifica a agência humana, e não uma sombra que dissolve a responsabilidade.",
+      "tokens": 79
+    },
+    {
+      "id": 3451,
+      "document": "references_chatgpt_direito_e_tecnologia_regulações_e_IA_doc_4.md",
+      "section": "Responsabilidade civil e criminal no uso de inteligência artificial",
+      "text": "Advogados que subscrevem petições com citações jurisprudenciais geradas por sistemas de IA sem verificar sua autenticidade respondem pela irregularidade perante seus clientes e perante o juízo — independentemente de qualquer lei específica de IA. O dever de diligência profissional, previsto no Estatuto da OAB e no Código de Ética, não é afastado pelo uso de ferramentas tecnológicas.",
+      "tokens": 98
+    }
+  ]
+}
