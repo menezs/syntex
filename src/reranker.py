@@ -5,7 +5,11 @@ from sentence_transformers import CrossEncoder
 class Reranker:
     def __init__(self, model_name: str = "BAAI/bge-reranker-v2-m3"):
         print(f"Loading reranker model: {model_name}...")
-        self.model = CrossEncoder(model_name, max_length=512)
+        self.model = CrossEncoder(
+            model_name,
+            max_length=512,
+            cache_folder='./model_cache'
+        )
 
     def rerank(self, query: str, results: List[Dict[str, Any]], top_k: int = 5) -> List[Dict[str, Any]]:
         if not results:

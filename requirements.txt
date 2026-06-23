@@ -3,3 +3,5 @@ faiss-cpu
 tiktoken
 semantic-text-splitter
 mistune
+pymupdf4llm
+python-docx

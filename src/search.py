@@ -1,4 +1,4 @@
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any
 from src.models import Chunk
 from src.embeddings import Embedder
 from src.indexer import FAISSIndexer
@@ -10,9 +10,9 @@ class SemanticSearch:
         self,
         indexer: FAISSIndexer,
         embedder: Embedder,
-        reranker: Optional[Reranker] = None,
-        top_k: int = 10,
-        rerank_top_k: int = 5
+        reranker: Reranker,
+        top_k: int = 50,
+        rerank_top_k: int = 20
     ):
         self.indexer = indexer
         self.embedder = embedder
@@ -39,7 +39,6 @@ class SemanticSearch:
                     "tokens": chunk.tokens
                 })
 
-        if self.reranker and len(results) > self.rerank_top_k:
-            results = self.reranker.rerank(query, results, self.rerank_top_k)
+        results = self.reranker.rerank(query, results, self.rerank_top_k)
 
         return results

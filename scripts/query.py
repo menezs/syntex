@@ -1,23 +1,26 @@
 import sys
-import os
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.embeddings import Embedder
 from src.indexer import FAISSIndexer
+from src.reranker import Reranker
 from src.search import SemanticSearch
 
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python query.py \"your search query\"")
-        sys.exit(1)
+def query_search(query: str, index_path: str = None, db_path: str = None):
+    base_path = Path(__file__).parent.parent
 
-    query = " ".join(sys.argv[1:])
+    if index_path is None:
+        index_path = base_path / "data" / "index" / "faiss.index"
+    else:
+        index_path = Path(index_path)
 
-    index_path = Path(__file__).parent.parent / "data" / "index" / "faiss.index"
-    db_path = Path(__file__).parent.parent / "data" / "metadata" / "chunks.db"
+    if db_path is None:
+        db_path = base_path / "data" / "metadata" / "chunks.db"
+    else:
+        db_path = Path(db_path)
 
     print("Loading index...")
     embedder = Embedder("BAAI/bge-m3")
@@ -28,9 +31,12 @@ def main():
     )
     indexer.load()
 
+    print("Loading reranker...")
+    reranker = Reranker()
+
     print(f"\nSearching for: \"{query}\"\n")
 
-    search = SemanticSearch(indexer, embedder, top_k=5)
+    search = SemanticSearch(indexer, embedder, reranker, top_k=50, rerank_top_k=20)
     results = search.search(query)
 
     print("=" * 80)
@@ -39,9 +45,21 @@ def main():
         print(f"Document: {result['document']}")
         print(f"Section: {result['section']}")
         print(f"Tokens: {result['tokens']}")
+        print(f"Score: {result.get('score', 'N/A')}")
         print("-" * 40)
         print(result['text'][:500] + ("..." if len(result['text']) > 500 else ""))
         print("=" * 80)
+
+    return results
+
+
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python query.py \"your search query\"")
+        sys.exit(1)
+
+    query = " ".join(sys.argv[1:])
+    query_search(query)
 
 
 if __name__ == "__main__":

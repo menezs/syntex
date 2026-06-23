@@ -221,3 +221,13 @@ __marimo__/
 
 model_cache/
 .model_cache/
+
+data/metadata/*/*.db
+data/index/*/*.index
+data/documents/*/*.md
+data/chunks/*json
+data/results
+data/results/*/*.json
+data/results/*/*.md
+data/answers/*.pdf
+data/answers/*.docx

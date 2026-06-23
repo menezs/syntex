@@ -1,5 +1,4 @@
 import sys
-import os
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -11,13 +10,18 @@ from src.embeddings import Embedder
 from src.indexer import FAISSIndexer
 
 
-def main():
-    documents_dir = Path(__file__).parent.parent / "data" / "documents"
-    index_dir = Path(__file__).parent.parent / "data" / "index"
-    metadata_dir = Path(__file__).parent.parent / "data" / "metadata"
+def build_index(documents_dir: str, index_path: str = None, db_path: str = None):
+    base_path = Path(__file__).parent.parent
 
-    index_path = index_dir / "faiss.index"
-    db_path = metadata_dir / "chunks.db"
+    if index_path is None:
+        index_path = base_path / "data" / "index" / "faiss.index"
+    else:
+        index_path = Path(index_path)
+
+    if db_path is None:
+        db_path = base_path / "data" / "metadata" / "chunks.db"
+    else:
+        db_path = Path(db_path)
 
     print("Cleaning existing index...")
     if index_path.exists():
@@ -26,7 +30,7 @@ def main():
         db_path.unlink()
 
     print("Loading documents...")
-    loader = MarkdownLoader(str(documents_dir))
+    loader = MarkdownLoader(documents_dir)
     documents = loader.load()
     print(f"Loaded {len(documents)} documents")
 
@@ -62,6 +66,12 @@ def main():
     indexer.save()
 
     print("\nDone! Index built successfully.")
+
+
+def main():
+    base_path = Path(__file__).parent.parent
+    documents_dir = str(base_path / "data" / "documents")
+    build_index(documents_dir)
 
 
 if __name__ == "__main__":
